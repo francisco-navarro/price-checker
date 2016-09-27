@@ -1,0 +1,4 @@
+# price-checker
+
+npm install
+
